@@ -63,6 +63,7 @@ slidingMenu.setTouchModeAbove(SlidingMenu.TOUCHMODE_FULLSCREEN);
 菜单内侧滑却无法关闭
 menu.setTouchModeBehind(SlidingMenu.TOUCHMODE_FULLSCREEN);
 
+
 当添加1中代码后菜单中内侧按钮失效
 
 解决方案：
